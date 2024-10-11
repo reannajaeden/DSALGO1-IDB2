@@ -5,3 +5,4 @@ This is my repository for all of the activities of my DSALGO1 class
 
 09/06/2024 - Activity 1
 09/27/2024 - Midterms Activity 1
+10/11/2024 - Midterms Activity 2
